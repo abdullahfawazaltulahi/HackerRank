@@ -24,20 +24,20 @@ An **OCCUPATIONS** table that contains the following records:
 
 Sample Output
 
-> Ashely(P)
-> Christeen(P)
-> Jane(A)
-> Jenny(D)
-> Julia(A)
-> Ketty(P)
-> Maria(A)
-> Meera(S)
-> Priya(S)
-> Samantha(D)
-> There are a total of 2 doctors.
-> There are a total of 2 singers.
-> There are a total of 3 actors.
-> There are a total of 3 professors.`
+- > Ashely(P)
+- > Christeen(P)
+- > Jane(A)
+- > Jenny(D)
+- > Julia(A)
+- > Ketty(P)
+- > Maria(A)
+- > Meera(S)
+- > Priya(S)
+- > Samantha(D)
+- > There are a total of 2 doctors.
+- > There are a total of 2 singers.
+- > There are a total of 3 actors.
+- > There are a total of 3 professors.`
 
 Explanation
 The results of the first query are formatted to the problem description's specifications.
