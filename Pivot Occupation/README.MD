@@ -6,6 +6,8 @@
 **Input Format**
 
 The **OCCUPATIONS** table is described as follows:
+
+
 ![alt text](<occupation table-1.png>)
 
 Occupation will only contain one of the following values: **Doctor**, **Professor**, **Singer** or **Actor**.
